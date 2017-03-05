@@ -2,4 +2,12 @@ name: 'ocms framework'
 description: 'octoberCMS framework theme'
 author: 'Anda István'
 homepage: 'http://arteriaweb.hu'
-code: ''
+code: 'octobercms-arteriaweb-framework'
+
+require:
+    - RainLab.Builder
+    - RainLab.Blog
+    - Indikator.Plugins
+    - Bedard.Debugbar
+    - Indikator.Backend
+    - Indikator.DevTools

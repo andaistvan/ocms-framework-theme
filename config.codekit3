@@ -2821,7 +2821,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/theme-preview.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/js\/app.min.js": {
 		"ft": 64,
