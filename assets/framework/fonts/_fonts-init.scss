@@ -1,0 +1,69 @@
+// ICONS
+@import "font-awesome/font-awesome-init";
+// @import "stroke7/_pe-icon-7-stroke.css";
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('bs-halfling/glyphicons-halflings-regular.eot');
+    src: url('bs-halfling/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+         url('bs-halfling/glyphicons-halflings-regular.woff') format('woff'),
+         url('bs-halfling/glyphicons-halflings-regular.ttf') format('truetype'),
+         url('bs-halfling/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
+}
+
+// FONTS
+
+// ------- OPEN SANS -------
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800);
+
+
+// ------- ROBOTO -------
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Thin), url('Roboto-Thin.eot');
+    src: url("Roboto-Thin.eot?#iefix") format('embedded-opentype'),
+        url("Roboto-Thin.woff2") format("woff2"),
+        url("Roboto-Thin.woff") format("woff"),
+        url("Roboto-Thin.ttf") format("truetype");
+
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Light), url('Roboto-Light.eot');
+    src: url("Roboto-Light.eot?#iefix") format('embedded-opentype'),
+        url("Roboto-Light.woff2") format("woff2"),
+        url("Roboto-Light.woff") format("woff"),
+        url("Roboto-Light.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: local(Roboto Regular), url('Roboto-Regular.eot');
+    src: url("Roboto-Regular.eot?#iefix") format('embedded-opentype'),
+        url("Roboto-Regular.woff2") format("woff2"),
+        url("Roboto-Regular.woff") format("woff"),
+        url("Roboto-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('Roboto-Medium.eot');
+    src: url("Roboto-Medium.eot?#iefix") format('embedded-opentype'),
+        url("Roboto-Medium.woff2") format("woff2"),
+        url("Roboto-Medium.woff") format("woff"),
+        url("Roboto-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('Roboto-Bold.eot');
+    src: url("Roboto-Bold.eot?#iefix") format('embedded-opentype'),
+        url("Roboto-Bold.woff2") format("woff2"),
+        url("Roboto-Bold.woff") format("woff"),
+        url("Roboto-Bold.ttf") format("truetype");
+    font-weight: 700;
+}

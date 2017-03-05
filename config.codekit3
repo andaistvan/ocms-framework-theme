@@ -9,128 +9,2159 @@
 	],
 "creatorBuild": "25444",
 "files": {
-	"\/assets\/build\/main.scss": {
+	"\/_animate-wow.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_animate-wow-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/main.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/framework\/.sass-cache\/1bd8922ca077a7d6573228dd9508947c901b9dab\/_fonts-init.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/1bd8922ca077a7d6573228dd9508947c901b9dab\/_fonts-init.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/2335fded99b9a65165fe661f328e0d17c920f213\/_default.date.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/2335fded99b9a65165fe661f328e0d17c920f213\/_default.date.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/2335fded99b9a65165fe661f328e0d17c920f213\/_default.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/2335fded99b9a65165fe661f328e0d17c920f213\/_default.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/2335fded99b9a65165fe661f328e0d17c920f213\/_default.time.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/2335fded99b9a65165fe661f328e0d17c920f213\/_default.time.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/2967a1c7a44eed42cdf272787915720c449d08be\/%042c": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/.sass-cache\/2967a1c7a44eed42cdf272787915720c449d08be\/%042c",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/37986cf877a54b5312ba7f80ca918eec64e3bc34\/_theme.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/37986cf877a54b5312ba7f80ca918eec64e3bc34\/_theme.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/37986cf877a54b5312ba7f80ca918eec64e3bc34\/theme.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/.sass-cache\/37986cf877a54b5312ba7f80ca918eec64e3bc34\/theme.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/38b14954da22951aa8028c93dbccbed7ce7b4061\/_animate-wow.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/38b14954da22951aa8028c93dbccbed7ce7b4061\/_animate-wow.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/393eba503916fe4f29c3a3bea1d67eeff4471194\/_masonry-grid.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/393eba503916fe4f29c3a3bea1d67eeff4471194\/_masonry-grid.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/414808b7ddbaece467cccf6f3847f1fb859a96e4\/%042c": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/.sass-cache\/414808b7ddbaece467cccf6f3847f1fb859a96e4\/%042c",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_badges.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_badges.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_buttons.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_buttons.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_cards.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_cards.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_chips.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_chips.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_collapsible.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_collapsible.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_color.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_color.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_dropdown.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_dropdown.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_global.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_global.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_icons-material-design.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_icons-material-design.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_materialbox.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_materialbox.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_mixins.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_mixins.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_modal.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_modal.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_normalize.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_normalize.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_preloader.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_preloader.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_roboto.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_roboto.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_sideNav.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_sideNav.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_slider.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_slider.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_table_of_contents.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_table_of_contents.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_tabs.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_tabs.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_toast.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_toast.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_tooltip.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_tooltip.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_transitions.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_transitions.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_typography.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_typography.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_variables.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_variables.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_waves.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9186047d349a5a78e7b61dd4a239dada5c4ae4a0\/_waves.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_checkboxes.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_checkboxes.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_file-input.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_file-input.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_forms.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_forms.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_input-fields.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_input-fields.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_radio-buttons.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_radio-buttons.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_range.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_range.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_select.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_select.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_switches.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/91dbe68f7370db65f02dc70f624167fe839ba093\/_switches.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9704ae2c201f989b899729f93815ca1b0a950bcb\/_materialize.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/9704ae2c201f989b899729f93815ca1b0a950bcb\/_materialize.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/9704ae2c201f989b899729f93815ca1b0a950bcb\/materialize.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/.sass-cache\/9704ae2c201f989b899729f93815ca1b0a950bcb\/materialize.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/a9f41e33155b7613c1aa6ca9284558f73f89fdc4\/main.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/.sass-cache\/a9f41e33155b7613c1aa6ca9284558f73f89fdc4\/main.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/.sass-cache\/c0a1fd40a975614bf091ced4b894c856ea6599e8\/_font-awesome-init.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/.sass-cache\/c0a1fd40a975614bf091ced4b894c856ea6599e8\/_font-awesome-init.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/bower-styles\/.sass-cache\/38b14954da22951aa8028c93dbccbed7ce7b4061\/_animate-wow.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/bower-styles\/.sass-cache\/38b14954da22951aa8028c93dbccbed7ce7b4061\/_animate-wow.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/bower-styles\/_animate-wow.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/_animate-wow.css",
+		"oF": 3,
+		"oS": 0,
+		"uL": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/framework\/bower_components\/wow\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/framework\/bower_components\/wow\/css\/libs\/animate.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/build\/assets\/css\/main.css",
-		"oF": 0,
-		"oS": 2,
-		"uL": 1
+		"oAP": "\/assets\/framework\/bower-styles\/_animate.scss",
+		"oF": 3,
+		"oS": 0
 		},
-	"\/assets\/build\/theme\/init-js\/theme-init.js": {
+	"\/assets\/framework\/bower_components\/wow\/css\/site.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/css\/site.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/demo.html",
+		"oF": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/dist\/wow.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/assets\/framework\/bower-js\/wow.js",
+		"oF": 3,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/dist\/wow.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/init-js\/theme-init-min.js",
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/dist\/wow.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/assets\/build\/theme\/sass\/_theme.scss": {
+	"\/assets\/framework\/bower_components\/wow\/Gruntfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/Gruntfile.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/LICENSE-MIT": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/LICENSE-MIT",
+		"oF": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/framework\/bower_components\/wow\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html",
+		"oF": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html",
+		"oF": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/libs\/jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/libs\/jquery.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/wow-spec.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/spec\/javascripts\/wow-spec.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/bower_components\/wow\/src\/wow.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/bower_components\/wow\/src\/wow.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
+		},
+	"\/assets\/framework\/fonts\/_fonts-init.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/assets\/css\/_theme.css",
+		"oAP": "\/assets\/framework\/fonts\/_fonts-init.css",
 		"oF": 0,
-		"oS": 2,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/build\/theme\/sass\/globals\/_footer.scss": {
+	"\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/bs-halflings\/glyphicons-halflings-regular.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/font-awesome\/_font-awesome-init.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/globals\/assets\/css\/_footer.css",
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/_font-awesome-init.css",
 		"oF": 0,
-		"oS": 2,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/build\/theme\/sass\/globals\/_globals.scss": {
+	"\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/font-awesome\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/_lato.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/globals\/assets\/css\/_globals.css",
+		"oAP": "\/assets\/framework\/fonts\/lato\/_lato.css",
 		"oF": 0,
-		"oS": 2,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/build\/theme\/sass\/globals\/_header.scss": {
+	"\/assets\/framework\/fonts\/lato\/lato-black.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-black.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-black.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-black.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-black.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-black.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bold.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bold.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bold.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bolditalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bolditalic.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bolditalic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bolditalic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bolditalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bolditalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-bolditalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-bolditalic.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-italic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-italic.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-italic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-italic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-italic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-italic.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-italic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-italic.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-light.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-light.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-light.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-light.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-light.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-light.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-regular.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/lato\/lato-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/lato\/lato-regular.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Bold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Bold.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Bold.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Bold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Bold.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Bold.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Bold.woff2",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Light.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Light.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Light.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Light.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Light.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Light.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Light.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Light.woff2",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Medium.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Medium.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Medium.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Medium.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Medium.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Medium.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Medium.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Medium.woff2",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Regular.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Regular.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Regular.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Regular.woff2",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Thin.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Thin.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Thin.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Thin.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Thin.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Thin.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/Roboto-Thin.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/Roboto-Thin.woff2",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/stroke7\/_pe-icon-7-stroke.css": {
 		"aP": 0,
 		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/fonts\/stroke7\/_pe-icon-7-stroke-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.ttf",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/stroke7\/Pe-icon-7-stroke.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/main.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/assets\/js\/app.min.js",
+		"oF": 3,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/main.scss": {
+		"aP": 0,
+		"bl": 1,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/globals\/assets\/css\/_header.css",
-		"oF": 0,
-		"oS": 2,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/css\/main.css",
+		"oF": 2,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/build\/theme\/sass\/globals\/_navigation.scss": {
+	"\/assets\/framework\/masonry\/_masonry-grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/globals\/assets\/css\/_navigation.css",
+		"oAP": "\/assets\/framework\/masonry\/_masonry-grid.css",
 		"oF": 0,
-		"oS": 2,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/build\/theme\/sass\/pages\/_home.scss": {
+	"\/assets\/framework\/masonry\/isotope.pkgd.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/masonry\/isotope.pkgd.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/components\/_badges.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/pages\/assets\/css\/_home.css",
+		"oAP": "\/assets\/framework\/materialize\/components\/_badges.css",
 		"oF": 0,
-		"oS": 2,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/build\/theme\/sass\/pages\/_sample-teszt.scss": {
+	"\/assets\/framework\/materialize\/components\/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
-		"oAP": "\/assets\/build\/theme\/sass\/pages\/assets\/css\/_sample-teszt.css",
+		"oAP": "\/assets\/framework\/materialize\/components\/_buttons.css",
 		"oF": 0,
-		"oS": 2,
+		"oS": 0,
 		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_cards.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_cards.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_carousel.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_carousel.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_chips.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_chips.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_collapsible.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_collapsible.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_color.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_color.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_dropdown.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_dropdown.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_global.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_global.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_icons-material-design.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_icons-material-design.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_materialbox.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_materialbox.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_modal.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_modal.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_navbar.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_navbar.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_prefixer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_prefixer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_preloader.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_preloader.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_roboto.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_roboto.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_sideNav.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_sideNav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_slider.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_slider.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_table_of_contents.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_table_of_contents.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_tabs.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_tabs.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_toast.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_toast.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_tooltip.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_tooltip.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_transitions.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_transitions.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/_waves.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/_waves.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/date_picker\/_default.date.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/date_picker\/_default.date.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/date_picker\/_default.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/date_picker\/_default.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/date_picker\/_default.time.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/date_picker\/_default.time.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_checkboxes.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_checkboxes.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_file-input.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_file-input.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_forms.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_forms.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_input-fields.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_input-fields.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_radio-buttons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_radio-buttons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_range.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_range.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_select.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_select.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/components\/forms\/_switches.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_switches.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/materialize\/js\/animation.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/animation-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/bin\/materialize-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/bin\/materialize-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/bin\/materialize.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/bin\/materialize-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/bin\/materialize.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/bin\/materialize.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/buttons.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/buttons-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/cards.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/cards-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/carousel.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/carousel-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/character_counter.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/character_counter-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/chips.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/chips-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/collapsible.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/collapsible-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/date_picker\/picker-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/date_picker\/picker-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/date_picker\/picker.date-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/date_picker\/picker.date-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/date_picker\/picker.date.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/date_picker\/picker.date-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/date_picker\/picker.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/date_picker\/picker-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/dropdown.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/dropdown-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/forms.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/forms-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/global.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/global-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/hammer.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/hammer.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/initial.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/initial-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/jquery.easing.1.3.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/jquery.easing.1.3-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/jquery.hammer.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/jquery.hammer-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/materialbox.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/materialbox-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/modal.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/modal-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/parallax-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/parallax-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/parallax.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/parallax-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/pushpin.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/pushpin-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/scrollFire.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/scrollFire-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/scrollspy.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/scrollspy-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/sideNav.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/sideNav-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/slider.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/slider-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/tabs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/tabs-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/toasts.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/toasts-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/tooltip.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/tooltip-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/transitions.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/transitions-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/velocity.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/velocity.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/js\/waves.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/js\/waves-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/materialize\/materialize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/materialize\/materialize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/2967a1c7a44eed42cdf272787915720c449d08be\/%042c": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/2967a1c7a44eed42cdf272787915720c449d08be\/%042c",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/37986cf877a54b5312ba7f80ca918eec64e3bc34\/_theme.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/37986cf877a54b5312ba7f80ca918eec64e3bc34\/_theme.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/388822938d39250afe9945017acb3aadee1d8487\/_home.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/388822938d39250afe9945017acb3aadee1d8487\/_home.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/388822938d39250afe9945017acb3aadee1d8487\/_sample-teszt.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/388822938d39250afe9945017acb3aadee1d8487\/_sample-teszt.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/6dfeb38cfcfb9e1a137720ce8d7cdb927f55f032\/%042c": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/6dfeb38cfcfb9e1a137720ce8d7cdb927f55f032\/%042c",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_footer.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_footer.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_globals.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_globals.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_header.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_header.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_maintenance.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_maintenance.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_navigation.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/.sass-cache\/b39b1c53dc5015c97fee795706920c38cf4c18c1\/_navigation.scssc",
+		"oF": 0
+		},
+	"\/assets\/framework\/theme\/sass\/globals\/_footer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/globals\/_footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/globals\/_globals.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/globals\/_globals.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/globals\/_header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/globals\/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/globals\/_maintenance.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/globals\/_maintenance.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/globals\/_navigation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/globals\/_navigation.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/pages\/_home.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/pages\/_home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/pages\/_sample-teszt.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/pages\/_sample-teszt.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/sass\/theme.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/sass\/theme.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 0
+		},
+	"\/assets\/framework\/theme\/theme-init.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/app.js",
+		"oF": 3,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/images\/branding\/icon.png": {
+		"ft": 32768,
+		"iS": 1476,
+		"oA": 0,
+		"oAP": "\/assets\/images\/branding\/icon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/maintenance\/maintenance.png": {
+		"ft": 32768,
+		"iS": 113691,
+		"oA": 0,
+		"oAP": "\/assets\/images\/maintenance\/maintenance.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/theme-preview.png": {
+		"ft": 32768,
+		"iS": 259047,
+		"oA": 0,
+		"oAP": "\/assets\/images\/theme-preview.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/js\/app.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/js\/app.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/app.min.js.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/js\/app.min.js.map",
+		"oF": 0
+		},
+	"\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/layouts\/default.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/layouts\/default.htm",
+		"oF": 0
+		},
+	"\/layouts\/maintenance.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/layouts\/maintenance.htm",
+		"oF": 0
+		},
+	"\/pages\/home.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/home.htm",
+		"oF": 0
+		},
+	"\/pages\/maintenance\/maintenance.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/maintenance\/maintenance.htm",
+		"oF": 0
+		},
+	"\/pages\/sample\/teszt.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/sample\/teszt.htm",
+		"oF": 0
+		},
+	"\/partials\/all-pages\/footer.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/partials\/all-pages\/footer.htm",
+		"oF": 0
+		},
+	"\/partials\/all-pages\/header.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/partials\/all-pages\/header.htm",
+		"oF": 0
+		},
+	"\/theme.yaml": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/theme.yaml",
+		"oF": 1
 		}
 	},
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/assets\/framework\/main.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/framework\/materialize\/js\/bin\/materialize.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/framework\/masonry\/isotope.pkgd.min.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/framework\/theme\/theme-init.js",
+			"position": 2,
+			"type": 1
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 510356084,
-	"displayValue": "ocms-framework",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "ocmsfw-V2.0",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_magenta"
 	},
 "projectSettings": {
@@ -379,7 +2410,7 @@
 		},
 	"babelPresetType": 193,
 	"babelRetainLines": 0,
-	"bowerAbbreviatedPath": "bower_components",
+	"bowerAbbreviatedPath": "assets\/framework\/bower_components",
 	"bowerAutoCreateInfoFile": 1,
 	"bowerInstallDevDependencies": 1,
 	"bowerSaveDependencies": 1,
@@ -1806,14 +3837,13 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
+		"autoOutputPathRelativePath": "assets\/css",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
-		"outputStyle": 3,
+		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
@@ -1952,17 +3982,17 @@
 		"outputStyle": 0
 		},
 	"languageDefaultsSASS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "assets\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 1,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
