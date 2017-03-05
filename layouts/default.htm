@@ -11,30 +11,38 @@ description = "default layout"
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="generator" content="OctoberCMS">
         <link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">
-        <link href="{{ 'assets/css/main.css'|theme }}" rel="stylesheet">
+
+        <link href="{{ [
+           'assets/css/main.css'
+           ]|theme }}" rel="stylesheet">
         {% styles %}
     </head>
     <body>
 
-        <!-- Header -->
-        <header id="layout-header">
-            {% partial 'all-pages/header' %}
-        </header>
+      <!-- Header -->
+      <header id="layout-header">
+         {% partial 'all-pages/header' %}
+      </header>
 
-        <!-- Content -->
-        <section id="layout-content">
-            {% page %}
-        </section>
+      <!-- Content -->
+      <section id="layout-content">
+         {% page %}
+      </section>
 
-        <!-- Footer -->
-        <footer id="layout-footer">
-            {% partial 'all-pages/footer' %}
-        </footer>
+      <!-- Footer -->
+      <footer id="layout-footer">
+         {% partial 'all-pages/footer' %}
+      </footer>
 
-        <!-- Scripts -->
-        <script src="{{ 'assets/js/app.min.js'|theme }}"></script>
-        {% framework extras %}
-        {% scripts %}
+   <!-- Scripts -->
+   <script src="{{ [
+       '@jquery',
+       '@framework',
+       '@framework.extras',
+       'assets/js/app.min.js'
+   ]|theme }}"></script>
+
+   {% scripts %}
 
     </body>
 </html>
