@@ -1,5 +1,3 @@
-@charset 'UTF-8';
-
 // fonts
 @import 'fonts/fonts-init';
 
@@ -11,7 +9,7 @@
 
 // vendor kits
 @import 'masonry/masonry-grid';
-@import 'bower-styles/*';
+@import 'bowerstyles/bowerstyles';
 
 // theme custom styles
-@import "theme/sass/theme";
+@import 'theme/theme';
