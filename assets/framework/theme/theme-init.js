@@ -8,7 +8,7 @@ $(document).ready(function() {
        $('#lt-navigation nav').removeClass('lt-no-background');
      }
   });
-  $('.lt-mobile-toggle').sideNav();
+  $('.mobile-toggle').sideNav();
 
   //Dropdown
   $('.dropdown-button').dropdown({
@@ -45,20 +45,20 @@ $(document).ready(function() {
   $(window).trigger('resize');
 
   // Parallax
-  $('.lt-parallax').parallax();
+  $('.parallax').parallax();
 
   // Tabs
-  $('.lt-tabs').tabs();
+  // $('.lt-tabs').tabs();
 
   // Modal
-  $('.lt-modal-trigger').leanModal();
+  // $('.modal-trigger').leanModal();
 
   // Owl Carousel
-  $('.owl-carousel').owlCarousel({
-      loop:true,
-      items: 1,
-      center: true
-  })
+  // $('.owl-carousel').owlCarousel({
+  //     loop:true,
+  //     items: 1,
+  //     center: true
+  // })
 
   // Select
   $('select').material_select();
