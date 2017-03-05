@@ -1,0 +1,31 @@
+// materialize fix
+// ***********************
+#sidenav-overlay{
+	z-index: 1;
+}
+
+// ***********************
+// mobil menu
+// ***********************
+nav a.button-collapse i{
+	line-height: 92px;
+	height: 92px;
+}
+
+nav i.material-icons{
+	font-size: 36px;
+}
+
+ul.side-nav#mobil-menu{
+	padding-top: 30px;
+	li{
+		height: 48px;
+		a{
+			padding-left: 30px;
+			font-size: 16px;
+		}
+	}
+	.divider{
+		margin: 0px 0px 0px 0px;
+	}
+}

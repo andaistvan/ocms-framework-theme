@@ -5,8 +5,10 @@
 @import "parts/globals/header";
 @import "parts/globals/footer";
 @import "parts/globals/navigation";
+@import "parts/globals/navigation_onepage";
 @import "parts/globals/maintenance";
 
 // Pages
 @import "parts/pages/home";
+@import "parts/pages/one-page";
 @import "parts/pages/sample-teszt";

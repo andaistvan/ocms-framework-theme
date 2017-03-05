@@ -35,6 +35,11 @@ $(document).ready(function() {
     }
   );
 
+  $('.scrollspy').scrollSpy({
+     scrollOffset: 90,
+  });
+
+
 
 
   // Slider

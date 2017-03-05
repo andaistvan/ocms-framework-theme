@@ -9,14 +9,24 @@
 	],
 "creatorBuild": "25444",
 "files": {
-	"\/assets\/css\/main.css": {
+	"\/assets\/css\/main-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/assets\/css\/main-min.css",
+		"oAP": "\/assets\/css\/main-min-min.css",
 		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/main.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/main-min.css",
+		"oF": 1,
 		"oS": 0
 		},
 	"\/assets\/framework\/bower-js\/jquery-aw.js": {
@@ -1298,7 +1308,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/bowerstyles\/bowerstyles.css",
+		"oAP": "\/assets\/framework\/css\/bowerstyles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 0
@@ -1317,7 +1327,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/bowerstyles\/sass\/_animate-wow.css",
+		"oAP": "\/assets\/framework\/css\/_animate-wow.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 0
@@ -1330,7 +1340,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/fonts\/_fonts-init.css",
+		"oAP": "\/assets\/framework\/css\/_fonts-init.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1371,7 +1381,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/fonts\/font-awesome\/_font-awesome-init.css",
+		"oAP": "\/assets\/framework\/css\/_font-awesome-init.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1446,7 +1456,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/fonts\/lato\/_lato.css",
+		"oAP": "\/assets\/framework\/css\/_lato.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1807,7 +1817,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/masonry\/_masonry-grid.css",
+		"oAP": "\/assets\/framework\/css\/_masonry-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1829,7 +1839,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_badges.css",
+		"oAP": "\/assets\/framework\/css\/_badges.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1842,7 +1852,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_buttons.css",
+		"oAP": "\/assets\/framework\/css\/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1855,7 +1865,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_cards.css",
+		"oAP": "\/assets\/framework\/css\/_cards.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1868,7 +1878,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_carousel.css",
+		"oAP": "\/assets\/framework\/css\/_carousel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1881,7 +1891,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_chips.css",
+		"oAP": "\/assets\/framework\/css\/_chips.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1894,7 +1904,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_collapsible.css",
+		"oAP": "\/assets\/framework\/css\/_collapsible.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1907,7 +1917,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_color.css",
+		"oAP": "\/assets\/framework\/css\/_color.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1920,7 +1930,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_dropdown.css",
+		"oAP": "\/assets\/framework\/css\/_dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1933,7 +1943,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_global.css",
+		"oAP": "\/assets\/framework\/css\/_global.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1946,7 +1956,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_grid.css",
+		"oAP": "\/assets\/framework\/css\/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1959,7 +1969,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_icons-material-design.css",
+		"oAP": "\/assets\/framework\/css\/_icons-material-design.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1972,7 +1982,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_materialbox.css",
+		"oAP": "\/assets\/framework\/css\/_materialbox.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1985,7 +1995,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_mixins.css",
+		"oAP": "\/assets\/framework\/css\/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1998,7 +2008,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_modal.css",
+		"oAP": "\/assets\/framework\/css\/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2011,7 +2021,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_navbar.css",
+		"oAP": "\/assets\/framework\/css\/_navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2024,7 +2034,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_normalize.css",
+		"oAP": "\/assets\/framework\/css\/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2037,7 +2047,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_prefixer.css",
+		"oAP": "\/assets\/framework\/css\/_prefixer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2050,7 +2060,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_preloader.css",
+		"oAP": "\/assets\/framework\/css\/_preloader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2063,7 +2073,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_roboto.css",
+		"oAP": "\/assets\/framework\/css\/_roboto.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2076,7 +2086,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_sideNav.css",
+		"oAP": "\/assets\/framework\/css\/_sideNav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2089,7 +2099,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_slider.css",
+		"oAP": "\/assets\/framework\/css\/_slider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2102,7 +2112,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_table_of_contents.css",
+		"oAP": "\/assets\/framework\/css\/_table_of_contents.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2115,7 +2125,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_tabs.css",
+		"oAP": "\/assets\/framework\/css\/_tabs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2128,7 +2138,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_toast.css",
+		"oAP": "\/assets\/framework\/css\/_toast.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2141,7 +2151,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_tooltip.css",
+		"oAP": "\/assets\/framework\/css\/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2154,7 +2164,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_transitions.css",
+		"oAP": "\/assets\/framework\/css\/_transitions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2167,7 +2177,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_typography.css",
+		"oAP": "\/assets\/framework\/css\/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2180,7 +2190,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_variables.css",
+		"oAP": "\/assets\/framework\/css\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2193,7 +2203,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/_waves.css",
+		"oAP": "\/assets\/framework\/css\/_waves.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2206,7 +2216,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/date_picker\/_default.date.css",
+		"oAP": "\/assets\/framework\/css\/_default.date.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2219,7 +2229,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/date_picker\/_default.css",
+		"oAP": "\/assets\/framework\/css\/_default.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2232,7 +2242,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/date_picker\/_default.time.css",
+		"oAP": "\/assets\/framework\/css\/_default.time.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2245,7 +2255,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_checkboxes.css",
+		"oAP": "\/assets\/framework\/css\/_checkboxes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2258,7 +2268,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_file-input.css",
+		"oAP": "\/assets\/framework\/css\/_file-input.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2271,7 +2281,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_forms.css",
+		"oAP": "\/assets\/framework\/css\/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2284,7 +2294,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_input-fields.css",
+		"oAP": "\/assets\/framework\/css\/_input-fields.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2297,7 +2307,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_radio-buttons.css",
+		"oAP": "\/assets\/framework\/css\/_radio-buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2310,7 +2320,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_range.css",
+		"oAP": "\/assets\/framework\/css\/_range.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2323,7 +2333,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_select.css",
+		"oAP": "\/assets\/framework\/css\/_select.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2336,7 +2346,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/components\/forms\/_switches.css",
+		"oAP": "\/assets\/framework\/css\/_switches.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2673,7 +2683,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/materialize\/materialize.css",
+		"oAP": "\/assets\/framework\/css\/materialize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2686,7 +2696,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_footer.css",
+		"oAP": "\/assets\/framework\/css\/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2699,7 +2709,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_globals.css",
+		"oAP": "\/assets\/framework\/css\/_globals.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2712,7 +2722,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_header.css",
+		"oAP": "\/assets\/framework\/css\/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2725,7 +2735,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_maintenance.css",
+		"oAP": "\/assets\/framework\/css\/_maintenance.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2738,7 +2748,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_navigation.css",
+		"oAP": "\/assets\/framework\/css\/_navigation.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/parts\/globals\/_navigation_onepage.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_navigation_onepage.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2751,7 +2774,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/pages\/_home.css",
+		"oAP": "\/assets\/framework\/css\/_home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/parts\/pages\/_one-page.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/css\/_one-page.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2764,7 +2800,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/parts\/pages\/_sample-teszt.css",
+		"oAP": "\/assets\/framework\/css\/_sample-teszt.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2786,7 +2822,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/theme\/theme-all.scss",
+		"oAP": "\/assets\/framework\/css\/theme.css",
 		"oF": 3,
 		"oS": 0,
 		"uL": 1
@@ -2852,6 +2888,12 @@
 		"oAP": "\/layouts\/maintenance.htm",
 		"oF": 0
 		},
+	"\/layouts\/singlepage.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/layouts\/singlepage.htm",
+		"oF": 0
+		},
 	"\/pages\/home.htm": {
 		"ft": 8192,
 		"oA": 2,
@@ -2862,6 +2904,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/maintenance\/maintenance.htm",
+		"oF": 0
+		},
+	"\/pages\/onepage.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/onepage.htm",
 		"oF": 0
 		},
 	"\/pages\/sample\/teszt.htm": {
@@ -2886,6 +2934,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/partials\/contactForm\/default.htm",
+		"oF": 0
+		},
+	"\/partials\/onepage\/header-onep.htm": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/partials\/onepage\/header-onep.htm",
 		"oF": 0
 		},
 	"\/theme.yaml": {
