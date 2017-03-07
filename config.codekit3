@@ -1340,7 +1340,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/css\/_fonts-init.css",
+		"oAP": "\/assets\/framework\/fonts\/_fonts-init.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1381,7 +1381,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/css\/_font-awesome-init.css",
+		"oAP": "\/assets\/framework\/fonts\/font-awesome\/_font-awesome-init.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1420,6 +1420,19 @@
 		"oAP": "\/assets\/framework\/fonts\/font-awesome\/FontAwesome.otf",
 		"oF": 0
 		},
+	"\/assets\/framework\/fonts\/glyphicons\/_halflings_glyphicons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/fonts\/glyphicons\/_halflings_glyphicons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -1448,6 +1461,72 @@
 		"oAP": "\/assets\/framework\/fonts\/glyphicons\/flat-ui-icons-regular.woff",
 		"oF": 0
 		},
+	"\/assets\/framework\/fonts\/impact\/_impact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/fonts\/impact\/_impact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/fonts\/impact\/fontsmoothie.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/fonts\/impact\/fontsmoothie.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.eot",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.html",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.woff",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/impact\/Impact_PFL Normal.woff2",
+		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/impact\/Impact_PFL.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/framework\/fonts\/impact\/Impact_PFL-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/assets\/framework\/fonts\/lato\/_lato.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1456,7 +1535,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/framework\/css\/_lato.css",
+		"oAP": "\/assets\/framework\/fonts\/lato\/_lato.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1628,6 +1707,19 @@
 		"oA": 2,
 		"oAP": "\/assets\/framework\/fonts\/lato\/lato-regular.woff",
 		"oF": 0
+		},
+	"\/assets\/framework\/fonts\/roboto\/_roboto.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/fonts\/roboto\/_roboto.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/assets\/framework\/fonts\/roboto\/Roboto-Bold.eot": {
 		"ft": 8192,
@@ -2762,6 +2854,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_navigation_onepage.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/framework\/theme\/parts\/globals\/_test.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/framework\/theme\/parts\/globals\/_test.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
