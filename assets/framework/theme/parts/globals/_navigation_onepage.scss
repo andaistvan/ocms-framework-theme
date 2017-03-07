@@ -16,6 +16,39 @@ nav i.material-icons{
 	font-size: 36px;
 }
 
+//octaskin style navbar
+.aw-navbar {
+  nav {
+    transition: all 0.25s ease;
+    ul li {
+      a {
+      	font-weight: 700;
+      }
+      &:hover,
+      &:focus,
+      &.active {
+        background-color: transparent;
+        a {
+          transition: color 0.25s ease;
+          color: white;
+          background-color: transparent;
+        }
+      }
+    }
+    &.aw-no-background {
+      ul li {
+        &:hover,
+        &:focus,
+        &.active {
+          a {
+            color: $isc-primary-color;
+          }
+        }
+      }
+    }
+  }
+}
+
 ul.side-nav#mobil-menu{
 	padding-top: 30px;
 	li{

@@ -3,9 +3,9 @@ $(document).ready(function() {
   $(window).bind('load scroll', function(){
      var y = $(window).scrollTop();
      if (y <= 15) {
-       $('#lt-navigation nav').addClass('lt-no-background');
+       $('#layout-header nav').addClass('aw-no-background');
      } else if (y > 15) {
-       $('#lt-navigation nav').removeClass('lt-no-background');
+       $('#layout-header nav').removeClass('aw-no-background');
      }
   });
   $('.mobile-toggle').sideNav();

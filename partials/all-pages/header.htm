@@ -1,20 +1,20 @@
 description = "header"
 ==
 <!-- MAIN MENU Dropdown Structure -->
-         <ul id="services-submenu" class="dropdown-content">
-            <li class="{% if this.page.id == 'weboldalkeszites' %}active{% endif %}"><a href="{{ 'weboldalkeszites'|page }}">Weboldalkészítés</a></li>
-            <li class="{% if this.page.id == 'sablonok' %}active{% endif %}"><a href="{{ 'sablonok'|page }}">Sablonok</a></li>
-            <li class="{% if this.page.id == 'keresomarketing' %}active{% endif %}"><a href="{{ 'keresomarketing'|page }}">Keresőmarketing</a></li>
-            <li class="{% if this.page.id == 'tarhely' %}active{% endif %}"><a href="{{ 'tarhely'|page }}">Tárhely</a></li>
+         <ul id="blocks-submenu" class="dropdown-content">
+            <li class="{% if this.page.id == 'custom blocks' %}active{% endif %}"><a href="{{ 'custom-blocks'|page }}">custom blocks</a></li>
+            <!-- <li class="{% if this.page.id == 'sablonok' %}active{% endif %}"><a href="{{ 'sablonok'|page }}">Sablonok</a></li> -->
+            <!-- <li class="{% if this.page.id == 'keresomarketing' %}active{% endif %}"><a href="{{ 'keresomarketing'|page }}">Keresőmarketing</a></li> -->
+            <!-- <li class="{% if this.page.id == 'tarhely' %}active{% endif %}"><a href="{{ 'tarhely'|page }}">Tárhely</a></li> -->
          </ul>
 <!-- MAIN MENU Dropdown Structure -->
 
 <!-- MOBIL Dropdown Structure -->
          <ul id="services-mobil" class="dropdown-content">
-            <li class="{% if this.page.id == 'weboldalkeszites' %}active{% endif %}"><a href="{{ 'weboldalkeszites'|page }}">Weboldalkészítés</a></li>
-            <li class="{% if this.page.id == 'sablonok' %}active{% endif %}"><a href="{{ 'sablonok'|page }}">Sablonok</a></li>
-            <li class="{% if this.page.id == 'keresomarketing' %}active{% endif %}"><a href="{{ 'keresomarketing'|page }}">Keresőmarketing</a></li>
-            <li class="{% if this.page.id == 'tarhely' %}active{% endif %}"><a href="{{ 'tarhely'|page }}">Tárhely</a></li>
+            <li class="{% if this.page.id == 'custom-blocks' %}active{% endif %}"><a href="{{ 'custom-blocks'|page }}">custom blocks</a></li>
+            <!-- <li class="{% if this.page.id == 'sablonok' %}active{% endif %}"><a href="{{ 'sablonok'|page }}">Sablonok</a></li> -->
+            <!-- <li class="{% if this.page.id == 'keresomarketing' %}active{% endif %}"><a href="{{ 'keresomarketing'|page }}">Keresőmarketing</a></li> -->
+            <!-- <li class="{% if this.page.id == 'tarhely' %}active{% endif %}"><a href="{{ 'tarhely'|page }}">Tárhely</a></li> -->
          </ul>
 <!-- MOBIL Dropdown Structure -->
 
@@ -25,8 +25,8 @@ description = "header"
         <a href="{{ 'home'|page }}"><img class="hoverable brand-logo-img" src="{{ 'assets/images/branding/arteriaweb-logo-whitebg-253x47.png'|theme }}" alt="Arteriaweb logó"></a>
         <a href="#" data-activates="mobile-menu" class="lt-mobile-toggle button-collapse right"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down">
-          <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'home'|page }}">Kezdőlap</a></li>
-          <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="services-submenu">Szolgáltatásaink<i class="material-icons right">arrow_drop_down</i></a></li>
+          <li class="{% if this.page.id == 'onepage' %}active{% endif %}"><a href="{{ 'onepage'|page }}">one-page</a></li>
+          <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="blocks-submenu">Blocks<i class="material-icons right">arrow_drop_down</i></a></li>
           <li class="{% if this.page.id == 'araink' %}active{% endif %}"><a href="{{ 'araink'|page }}">Áraink</a></li>
           <li class="{% if this.page.id == 'contact' %}active{% endif %}"><a href="{{ 'contact'|page }}">Kapcsolat</a></li>
         </ul>

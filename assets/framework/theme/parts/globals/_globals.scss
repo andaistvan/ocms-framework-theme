@@ -4,6 +4,13 @@ $aw-darkgray: #37474f;
 $aw-lightgray: #78909c;
 $aw-textgray: #686868;
 $aw-lightergray: #eceff1;
+//transparent
+$transparent: transparent;
+.aw-no-background{
+   background-color: $transparent;
+}
+//Colors: Italian service coffe
+$isc-primary-color: #4e342e;
 
 // General
 html {

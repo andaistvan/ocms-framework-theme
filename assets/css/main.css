@@ -8823,6 +8823,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: rollOut;
   animation-name: rollOut; }
 
+.aw-no-background {
+  background-color: transparent; }
+
 html {
   font-family: 'Roboto Slab', sans-serif; }
 
@@ -8852,7 +8855,8 @@ p {
   margin: 0 auto; }
 
 footer#footer {
-  background: gray; }
+  background: #37474f;
+  min-height: 150px; }
 
 .lt-navbar i.right {
   margin-left: 0px; }
@@ -8884,6 +8888,21 @@ nav a.button-collapse i {
 
 nav i.material-icons {
   font-size: 36px; }
+
+.aw-navbar nav {
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease; }
+  .aw-navbar nav ul li a {
+    font-weight: 700; }
+  .aw-navbar nav ul li:hover, .aw-navbar nav ul li:focus, .aw-navbar nav ul li.active {
+    background-color: transparent; }
+    .aw-navbar nav ul li:hover a, .aw-navbar nav ul li:focus a, .aw-navbar nav ul li.active a {
+      -webkit-transition: color 0.25s ease;
+      transition: color 0.25s ease;
+      color: white;
+      background-color: transparent; }
+  .aw-navbar nav.aw-no-background ul li:hover a, .aw-navbar nav.aw-no-background ul li:focus a, .aw-navbar nav.aw-no-background ul li.active a {
+    color: #4e342e; }
 
 ul.side-nav#mobil-menu {
   padding-top: 30px; }
@@ -8923,4 +8942,8 @@ section#aw-sample-4 {
   section#aw-sample-2 .container,
   section#aw-sample-3 .container,
   section#aw-sample-4 .container {
-    background: white; }
+    background: white;
+    height: 100%; }
+
+section.block-section {
+  min-height: 100vh; }
